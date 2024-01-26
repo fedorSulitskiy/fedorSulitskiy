@@ -6,16 +6,13 @@
   <a href="https://www.linkedin.com/in/fedor-sulitskiy/">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:fedor.sulitskiy@gmail.com">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Mail/mail1.svg" alt="Mail Badge"/>
-  </a>
   <a href="https://medium.com/@f.sulitskiy">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)" alt="Medium Badge"/>
   </a>
 </div>
 
 ## About me 💻
-I'm a software engineer from London. Check out my CV [here](https://github.com/fedorSulitskiy/fedorSulitskiy/blob/main/Fedor%20Sulitskiy%20-%20CV.pdf).
+I'm a software engineer from London. Check out my CV [here](https://github.com/fedorSulitskiy/fedorSulitskiy/blob/main/Fedor%20Sulitskiy%20-%20CV.pdf). Mail me at <fedor.sulitskiy@gmail.com>!
 - 🐍 My main language is Python & Flutter
 - 🗒️ I'm experienced with data analysis and building **data-centric applications** using ...
   - 🐼 pandas, ...
